@@ -76,8 +76,6 @@ void BST::Insert(Node** node, int key)
 	}
 }
 
-
-
 void BST::PreOrder()
 {
 	PreOrder(root);
